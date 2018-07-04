@@ -11,7 +11,7 @@ import { watchFiles } from './watchFiles'
 
 // Folders
 const serverlessFolder = '.serverless'
-const buildFolder = '.build'
+const buildFolder = 'build'
 
 export class TypeScriptPlugin {
 
